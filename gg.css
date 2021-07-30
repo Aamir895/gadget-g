@@ -1,0 +1,246 @@
+body{
+    margin: 0 auto;
+    background-color: #000000;
+}
+#logo{
+    width:90%;
+    
+    padding: 15px;
+    margin-right: 10px;
+}
+#navlink li{
+    text-align: center;
+    margin-bottom: 10px;
+    display:inline-block;
+    width: 50%;
+}
+#navlink li a{
+    text-decoration: none;
+    color: #fefefe;
+    font-size: 20px;
+}
+#navlink{
+    margin: 20px;
+}
+#img{
+    display: block;
+}
+.ppp{
+    display: inline-block;
+    width: 25%;
+    margin: 15px;
+    margin-left: 50px;
+}
+.ppp a{
+    text-decoration: none;
+    color: #fefefe;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+}
+.ppp img{
+    margin-top: 18px;
+    margin-bottom: 10px;
+}
+h3 a{
+    text-decoration: none;
+    color:#fefefe;
+    font-family: monospace;
+    display: block;
+    /*
+    background-color:#fefefe;
+    */
+    border: #fefefe 1px solid;
+    text-align: center;
+    border-radius: 5px;
+    margin: 0 auto;
+    width: 65%;
+    
+    
+
+}
+footer div{
+    background-color: #fefefe;
+    width: 90%;
+    color: #000;
+    display: block;
+    margin: 0 auto;
+}
+footer div h2{
+    font-family: monospace;
+    text-align: center;
+    padding: 15px;
+    font-size: 16;
+    margin-bottom: 0px;
+    padding-bottom: 5px;
+}
+footer div p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 12px;
+    padding:15px ;
+    padding-top: 0px;
+    text-align: center;
+}
+form input{
+    text-decoration: none;
+    color:#fefefe;
+    font-family: monospace;
+    display: block;
+    /*
+    background-color:#fefefe;
+    */
+    border: #fefefe 1px solid;
+    text-align: center;
+    border-radius: 5px;
+    margin: 0 auto;
+    width: 65%;
+    
+    
+}
+#form{
+    width: 65%;
+    display: inline-block;
+    margin-left: 23%;
+    margin-bottom: 40px;
+}
+.form input{
+    background-color: black;
+    border: 3px solid #fefefe;
+    color: #fefefe;
+    display: inline-block;
+    padding: 4px;
+    font-weight: bolder;
+    font-size: large;
+    ;
+
+}
+form a{
+    color: #fefefe;
+    text-decoration: none;
+    border: 3px solid #fefefe;
+    padding:  4px;
+    border-radius: 4px;
+    font-weight: bolder;
+    margin-left: 8px;
+    font-family: ;
+}
+form a:hover{
+    color: black;
+    background-color: #fefefe;
+    
+    border: 4px solid #fefefe;
+    padding: 5px;
+    border-radius: 4px;
+    font-weight: bolder;
+    margin-left: 8px;
+}
+
+
+
+
+
+//
+nav{
+    background-color: #fefefe;
+    margin-top: 10px;
+    
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #fefefe;
+  }
+  
+  nav ul li {
+      margin-left: 30px;
+    float: left;
+  }
+  
+  nav ul li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  nav ul li a:hover {
+    background-color: #111;
+    color: #fefefe;
+  }
+
+  //
+
+.logos{
+    display: inline;
+    padding: 10px;
+    margin: 15px;
+    margin-left: 30px;
+  
+    }
+.logos img{
+     
+    margin: 5px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    }
+.paylogos{
+    display: inline;
+} 
+hr{
+    color: #fefefe;
+    
+    
+    margin-top: 30px;
+    margin-bottom: 35px;
+}
+//
+.secfortable{
+    display: inline-block;
+    width: 50%;
+    margin: 0;
+    padding: 0;
+}
+section table{
+    display: inline-block;
+}
+table tr{
+display: inline-block;
+}
+table tr td{
+    display: inline-block;
+}
+.sec{
+    
+    background-color: #fefefe;
+    width: 90%;
+    color:black;
+    text-align: center;
+    display: inline-block;
+    margin-left: 55px;
+    border: #fefefe 3px solid;
+    border-radius: 11px;
+   
+
+}
+.sec.secdiv{
+    
+}
+.firstsec{
+    display: inline-block;
+    width: 18%;
+}
+.secondsec{
+    display: inline-block;
+    width: 18%;
+}
+.thirdsec{
+    display: inline-block;
+    width: 45%;
+}
+.sec.frstdiv{
+    margin-bottom: 20px;
+}
